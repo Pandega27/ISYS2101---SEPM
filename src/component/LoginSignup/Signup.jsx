@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './LoginSignup.css';
+import { BrowserRouter as Router, Link } from 'react-router-dom';
 import user_icon from '../assets/profile.png';
 import password_icon from '../assets/password.png';
 
@@ -44,8 +45,9 @@ export const Signup = () => {
                         <input type="password" placeholder='Password' value={password} onChange={e => setPassword(e.target.value)} />
                     </div>
                 </div>
+                <div className='forgot-password'> Already Have Account? <span> <Link to="/login"> Log in Here!</Link></span></div>
                 <div className="submit-container">
-                    <button type="submit" className="submit">Sign Up</button>
+                <button type="submit" className="submit">Sign Up</button>
                 </div>
             </form>
         </div>
