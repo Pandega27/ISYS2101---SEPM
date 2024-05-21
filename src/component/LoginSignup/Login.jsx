@@ -23,7 +23,7 @@ export const Login = () => {
         const data = await response.json();
         if (response.ok) {
             sessionStorage.setItem('token', data.token);
-            navigate('/homepage');
+            navigate('/Homepage');
         } else {
             alert(data.message);
         }

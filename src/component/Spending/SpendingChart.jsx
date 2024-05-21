@@ -76,6 +76,7 @@ const SpendingChart = () => {
                                 size: 18,
                             }
                         }
+                        
                         },
                         tooltip: {}
                     }

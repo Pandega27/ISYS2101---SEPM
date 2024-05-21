@@ -1,3 +1,4 @@
+
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
@@ -29,7 +30,7 @@ function App() {
       <Routes>
 
         <Route path="/signup" element={<Signup />} />
-        <Route path="/homepage" element={<Homepage />} />
+        <Route path="/Homepage" element={<Homepage />} />
         <Route path="/Account" element={<Account />} />
         <Route path="/SpendingChart" element={<SpendingChart />} />
         <Route path="/Spending" element={<Spending />} />
