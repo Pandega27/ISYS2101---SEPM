@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to make the code work in user Local Host
+
+1. Install the Zip File of ISYS2101---SEPM to the user computer
+2. 
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
