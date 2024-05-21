@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to make the code work in user Local Host
 
 1. Install the Zip File of ISYS2101---SEPM to the user computer
-2. 
+2. Extract and Open the File in Visualcode
+3. 
 
 
 
