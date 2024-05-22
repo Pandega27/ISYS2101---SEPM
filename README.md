@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to make the code work in user Local Host (Front End)
 
-1. Install the Zip File of ISYS2101---SEPM to the user computer
+1. Install the Zip File of https://github.com/Pandega27/ISYS2101---SEPM to the user computer
 2. Extract and Open the File in Visualcode
 3. Open Visual Code and Run the Terminal
 4. Type in "npm Start" to run the code
