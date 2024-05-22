@@ -3,21 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to make the code work in user Local Host (Front End)
-
-1. Install the Zip File of https://github.com/Pandega27/ISYS2101---SEPM to the user computer
-2. Extract and Open the File in Visualcode
-3. Open Visual Code and Run the Terminal
-4. Enter "npm i" before starting the app
-5. Type in "npm Start" to run the code
-6. The Front End will be shown.
+https://financial-management-app.onrender.com/
 
 How to make the code work in user Local Host (Back End)
 
 1. Install the Zipfile of https://github.com/mookee2809/Finance-Tracker-BE to the user computer
-2. 2. Extract and Open the File in Visualcode
+2. Extract and Open the File in Visualcode
 3. Open Visual Code and Run the Terminal
-4. Type in "npm Start" to run the code
-5. The Front End will be shown.
+4. Open Terminal and type in "npm install express mongoose cors nodemon dotenv bcryptjs jsonwebtoken"
+5. Type in "npm Start" to run the code
+6. when it says "Database Connected".
+7. application will run smoothly
 
 By running 2 different Visual code coming from ISYS---SEPM and https://github.com/mookee2809/Finance-Tracker-BE the code
 will be connected and the application will run smoothly
