@@ -7,8 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Install the Zip File of https://github.com/Pandega27/ISYS2101---SEPM to the user computer
 2. Extract and Open the File in Visualcode
 3. Open Visual Code and Run the Terminal
-4. Type in "npm Start" to run the code
-5. The Front End will be shown.
+4. Enter "npm i" before starting the app
+5. Type in "npm Start" to run the code
+6. The Front End will be shown.
 
 How to make the code work in user Local Host (Back End)
 
